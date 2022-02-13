@@ -2,3 +2,4 @@
 修改初始内容
 Git has a mutable index called stage.
 git 提交1
+提交2
